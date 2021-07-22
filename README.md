@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manesthetic
 - 👀 I’m interested in web and app development.
-- 🌱 I’m currently learning full sytack webd.
+- 🌱 I’m currently learning full stack webd.
 - 💞️ I’m looking to collaborate on github.
 - 📫 reach me at manishdr08@gmail.com.
 
